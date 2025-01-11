@@ -78,3 +78,7 @@ def main(event, context):
 
         print(f"Index create successfully: {response.text}")
         break
+    
+    # Attempt to avoid CloudFormation error:
+    # The knowledge base storage configuration provided is invalid...
+    time.sleep(10)

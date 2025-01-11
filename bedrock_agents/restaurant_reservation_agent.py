@@ -10,6 +10,7 @@ from aws_cdk import (
     aws_opensearchserverless as aoss,
     aws_lambda as _lambda,
     triggers,
+    custom_resources as cr,
 )
 from constructs import Construct
 
@@ -290,6 +291,9 @@ class RestaurantReservationAgentStack(Stack):
             "knowledge-base-data-source-restaurant-descriptions",
             name=f"{prefix}-data-source",
             knowledge_base_id=restaurant_descriptions_knowledge_base.attr_knowledge_base_id,
+            # We will delete the collection anyway.
+            # If we do not RETAIN the cloudformation cannot be deleted smoothly.
+            data_deletion_policy="RETAIN",
             data_source_configuration=bedrock.CfnDataSource.DataSourceConfigurationProperty(
                 s3_configuration=bedrock.CfnDataSource.S3DataSourceConfigurationProperty(
                     bucket_arn=s3_bucket.bucket_arn,
@@ -313,7 +317,33 @@ class RestaurantReservationAgentStack(Stack):
             restaurant_descriptions_deployment
         )
 
-        # # Define the IAM role for the Agent
+        # Sync the Data Source
+        sync_data_source = cr.AwsCustomResource(
+            self,
+            "sync-data-source",
+            on_create=cr.AwsSdkCall(
+                service="bedrock-agent",
+                action="startIngestionJob",
+                parameters={
+                    "dataSourceId": restaurant_descriptions_data_source.attr_data_source_id,
+                    "knowledgeBaseId": restaurant_descriptions_knowledge_base.attr_knowledge_base_id,
+                },
+                physical_resource_id=cr.PhysicalResourceId.of("Parameter.ARN"),
+            ),
+            policy=cr.AwsCustomResourcePolicy.from_sdk_calls(
+                resources=cr.AwsCustomResourcePolicy.ANY_RESOURCE
+            ),
+        )
+
+        sync_data_source.grant_principal.add_to_principal_policy(
+            iam.PolicyStatement(
+                effect=iam.Effect.ALLOW,
+                actions=["bedrock:StartIngestionJob", "iam:CreateServiceLinkedRole", "iam:PassRole"],
+                resources=["*"],
+            )
+        )
+
+        # Define the IAM role for the Agent
         agent_role = iam.Role(
             self,
             "agent-role",
@@ -350,7 +380,7 @@ class RestaurantReservationAgentStack(Stack):
 
         # Define the Agent
 
-        bedrock.CfnAgent(
+        agent = bedrock.CfnAgent(
             self,
             "ai-agent",
             agent_name=f"{prefix}-agent",
@@ -367,4 +397,29 @@ class RestaurantReservationAgentStack(Stack):
                     knowledge_base_state="ENABLED",
                 )
             ],
+        )
+        
+        # Prepare the agent
+        prepare_agent_custom_resource = cr.AwsCustomResource(
+            self,
+            "prepare-agent",
+            on_create=cr.AwsSdkCall(
+                service="bedrock-agent",
+                action="prepareAgent",
+                parameters={
+                    "agentId": agent.attr_agent_id
+                },
+                physical_resource_id=cr.PhysicalResourceId.of("Parameter.ARN"),
+            ),
+            policy=cr.AwsCustomResourcePolicy.from_sdk_calls(
+                resources=cr.AwsCustomResourcePolicy.ANY_RESOURCE
+            ),
+        )
+
+        prepare_agent_custom_resource.grant_principal.add_to_principal_policy(
+            iam.PolicyStatement(
+                effect=iam.Effect.ALLOW,
+                actions=["bedrock:PrepareAgent", "iam:CreateServiceLinkedRole", "iam:PassRole"],
+                resources=["*"],
+            )
         )

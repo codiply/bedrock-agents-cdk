@@ -273,7 +273,9 @@ def _get_random_restaurant_metadata(
 
 
 def _combine_words_into_name(words: List[str]):
-    return " ".join([w for w in words if w != ""])
+    # I combine them into a single word without spaces
+    # to make it look more like unique names.
+    return "".join([w for w in words if w != ""])
 
 
 def _build_names_for_cuisine(cuisine: str):
