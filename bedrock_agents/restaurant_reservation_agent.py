@@ -380,46 +380,27 @@ class RestaurantReservationAgentStack(Stack):
 
         # Define the Agent
 
-        agent = bedrock.CfnAgent(
+        bedrock.CfnAgent(
             self,
             "ai-agent",
             agent_name=f"{prefix}-agent",
             foundation_model=agent_foundation_model_id,
             idle_session_ttl_in_seconds=600,
             instruction=(
-                "You are an agent that helps me to find and book a restaurant. You are polite and patient."
+                "You are an agent that helps me to find the right restaurant and then make a reservation. "
+                "You are polite, patient and accurate. Your answers are short and to the point."
             ),
             agent_resource_role_arn=agent_role.role_arn,
+            auto_prepare=True,
             knowledge_bases=[
                 bedrock.CfnAgent.AgentKnowledgeBaseProperty(
-                    description="Use this knowledge base to find restaurant descriptions.",
+                    description=(
+                        "Restaurant descriptions with district, cuisine, dishes and signature dish."
+                        "Includes average price and customer scores."
+                        "1 star is the lowest score and 5 stars is the highest."
+                        ),
                     knowledge_base_id=restaurant_descriptions_knowledge_base.attr_knowledge_base_id,
                     knowledge_base_state="ENABLED",
                 )
             ],
-        )
-        
-        # Prepare the agent
-        prepare_agent_custom_resource = cr.AwsCustomResource(
-            self,
-            "prepare-agent",
-            on_create=cr.AwsSdkCall(
-                service="bedrock-agent",
-                action="prepareAgent",
-                parameters={
-                    "agentId": agent.attr_agent_id
-                },
-                physical_resource_id=cr.PhysicalResourceId.of("Parameter.ARN"),
-            ),
-            policy=cr.AwsCustomResourcePolicy.from_sdk_calls(
-                resources=cr.AwsCustomResourcePolicy.ANY_RESOURCE
-            ),
-        )
-
-        prepare_agent_custom_resource.grant_principal.add_to_principal_policy(
-            iam.PolicyStatement(
-                effect=iam.Effect.ALLOW,
-                actions=["bedrock:PrepareAgent", "iam:CreateServiceLinkedRole", "iam:PassRole"],
-                resources=["*"],
-            )
         )
