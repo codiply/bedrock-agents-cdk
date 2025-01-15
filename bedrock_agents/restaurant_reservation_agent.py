@@ -9,6 +9,7 @@ from aws_cdk import (
     aws_s3_deployment as s3_deploy,
     aws_opensearchserverless as aoss,
     aws_lambda as _lambda,
+    aws_dynamodb as dynamodb,
     triggers,
     custom_resources as cr,
 )
@@ -47,13 +48,13 @@ class RestaurantReservationAgentStack(Stack):
             "s3-deployment",
             sources=[
                 s3_deploy.Source.asset(
-                    "./data/restaurants/descriptions/",
+                    "./data/restaurants/",
                 )
             ],
             destination_bucket=s3_bucket,
             prune=True,
             retain_on_delete=False,
-            destination_key_prefix="restaurants/descriptions/",
+            destination_key_prefix="restaurants/",
         )
 
         # Define the IAM role for the Knowledge Base
@@ -338,9 +339,71 @@ class RestaurantReservationAgentStack(Stack):
         sync_data_source.grant_principal.add_to_principal_policy(
             iam.PolicyStatement(
                 effect=iam.Effect.ALLOW,
-                actions=["bedrock:StartIngestionJob", "iam:CreateServiceLinkedRole", "iam:PassRole"],
+                actions=[
+                    "bedrock:StartIngestionJob",
+                    "iam:CreateServiceLinkedRole",
+                    "iam:PassRole",
+                ],
                 resources=["*"],
             )
+        )
+
+        # Create DynamoDB table for reservations
+
+        reservations_table = dynamodb.TableV2(
+            self,
+            f"{prefix}-reservations",
+            partition_key=dynamodb.Attribute(
+                name="restaurant_name", type=dynamodb.AttributeType.STRING
+            ),
+            sort_key=dynamodb.Attribute(
+                name="main_guest_name", type=dynamodb.AttributeType.STRING
+            ),
+            removal_policy=aws_cdk.RemovalPolicy.DESTROY
+        )
+
+        # Define the IAM role for the reservations lambda function
+
+        reservations_lambda_role = iam.Role(
+            self,
+            "reservations-lambda-role",
+            role_name=f"{prefix}-reservations-lambda-role",
+            assumed_by=iam.ServicePrincipal("lambda.amazonaws.com"),
+            managed_policies=[
+                iam.ManagedPolicy.from_aws_managed_policy_name(
+                    "service-role/AWSLambdaBasicExecutionRole"
+                )
+            ],
+        )
+
+        reservations_lambda_role.add_to_policy(
+            iam.PolicyStatement(
+                effect=iam.Effect.ALLOW,
+                actions=[
+                    "dynamodb:BatchGetItem",
+                    "dynamodb:BatchWriteItem",
+                    "dynamodb:ConditionCheckItem",
+                    "dynamodb:PutItem",
+                    "dynamodb:DescribeTable",
+                    "dynamodb:DeleteItem",
+                    "dynamodb:GetItem",
+                    "dynamodb:Scan",
+                    "dynamodb:Query",
+                    "dynamodb:UpdateItem",
+                ],
+                resources=[reservations_table.table_arn],
+            )
+        )
+
+        reservations_lambda = _lambda.Function(
+            self,
+            "reservations-lambda",
+            runtime=_lambda.Runtime.PYTHON_3_12,
+            handler="handler.main",
+            code=_lambda.Code.from_asset("./assets/reservations_lambda/"),
+            role=reservations_lambda_role,
+            description="Lambda function for Bedrock Agent Actions related to reservations",
+            environment={"DYNAMODB_TABLE_NAME": reservations_table.table_name},
         )
 
         # Define the IAM role for the Agent
@@ -380,7 +443,7 @@ class RestaurantReservationAgentStack(Stack):
 
         # Define the Agent
 
-        bedrock.CfnAgent(
+        agent = bedrock.CfnAgent(
             self,
             "ai-agent",
             agent_name=f"{prefix}-agent",
@@ -398,9 +461,50 @@ class RestaurantReservationAgentStack(Stack):
                         "Restaurant descriptions with district, cuisine, dishes and signature dish."
                         "Includes average price and customer scores."
                         "1 star is the lowest score and 5 stars is the highest."
-                        ),
+                    ),
                     knowledge_base_id=restaurant_descriptions_knowledge_base.attr_knowledge_base_id,
                     knowledge_base_state="ENABLED",
                 )
             ],
+            action_groups=[
+                bedrock.CfnAgent.AgentActionGroupProperty(
+                    action_group_name="MakeRestaurantReservation",
+                    description="Make a restaurant reservation",
+                    action_group_executor=bedrock.CfnAgent.ActionGroupExecutorProperty(
+                        lambda_=reservations_lambda.function_arn
+                    ),
+                    function_schema=bedrock.CfnAgent.FunctionSchemaProperty(
+                        functions=[
+                            bedrock.CfnAgent.FunctionProperty(
+                                name="make_restaurant_reservation",
+                                parameters={
+                                    "restaurant_name": bedrock.CfnAgent.ParameterDetailProperty(
+                                        type="string",
+                                        description="the name of the restaurant to be reserved",
+                                        required=True,
+                                    ),
+                                    "main_guest_name": bedrock.CfnAgent.ParameterDetailProperty(
+                                        type="string",
+                                        description="the name of the person making the reservation",
+                                        required=True,
+                                    ),
+                                    "number_of_persons": bedrock.CfnAgent.ParameterDetailProperty(
+                                        type="integer",
+                                        description="number of persons for the reservation. must be positive number.",
+                                        required=True,
+                                    ),
+                                },
+                            )
+                        ]
+                    ),
+                    skip_resource_in_use_check_on_delete=True,
+                )
+            ],
+        )
+
+        reservations_lambda.add_permission(
+            "allow-invoke-bedrock-agent",
+            principal=iam.ServicePrincipal("bedrock.amazonaws.com"),
+            action="lambda:InvokeFunction",
+            source_arn=agent.attr_agent_arn,
         )
