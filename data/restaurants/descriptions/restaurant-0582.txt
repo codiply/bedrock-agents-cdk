@@ -1,0 +1,8 @@
+
+OldSuratExpress is a restaurant with indian cuisine
+in East District serving butter chicken.
+Their signature dish is samosa. 
+The average price per person is $23. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

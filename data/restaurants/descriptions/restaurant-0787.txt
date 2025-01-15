@@ -1,0 +1,8 @@
+
+BigMexicali is a restaurant with mexican cuisine
+in East District serving churros.
+Their signature dish is quesadillas. 
+The average price per person is $20. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

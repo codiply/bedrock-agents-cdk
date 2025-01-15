@@ -1,0 +1,8 @@
+
+Italy is a restaurant with italian cuisine
+in West District serving pasta.
+Their signature dish is pesto. 
+The average price per person is $16. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    

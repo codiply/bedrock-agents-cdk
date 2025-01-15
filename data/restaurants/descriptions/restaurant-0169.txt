@@ -1,0 +1,8 @@
+
+GreatBengaluruHouse is a restaurant with indian cuisine
+in West District serving rogan josh, naan and tandoori chicken.
+Their signature dish is biryani. 
+The average price per person is $18. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

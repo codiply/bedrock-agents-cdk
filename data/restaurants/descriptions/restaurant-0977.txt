@@ -1,0 +1,8 @@
+
+BigCorfuHouse is a restaurant with greek cuisine
+in West District serving spinach pie and pastitsio.
+Their signature dish is mousaka. 
+The average price per person is $16. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

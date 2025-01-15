@@ -1,0 +1,8 @@
+
+GoodMumbai is a restaurant with indian cuisine
+in West District serving butter chicken.
+Their signature dish is biryani. 
+The average price per person is $21. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 3 stars.
+    

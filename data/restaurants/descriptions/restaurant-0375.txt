@@ -1,0 +1,8 @@
+
+GoodVeniceExpress is a restaurant with italian cuisine
+in North District serving pasta.
+Their signature dish is pesto. 
+The average price per person is $80. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

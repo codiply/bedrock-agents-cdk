@@ -1,0 +1,8 @@
+
+GoodTolucaGarden is a restaurant with mexican cuisine
+in East District serving burritos.
+Their signature dish is carnitas. 
+The average price per person is $9. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

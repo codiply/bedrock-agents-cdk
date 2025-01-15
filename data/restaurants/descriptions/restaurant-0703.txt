@@ -1,0 +1,8 @@
+
+OldMonterreyGarden is a restaurant with mexican cuisine
+in South District serving guacamole.
+Their signature dish is tacos. 
+The average price per person is $21. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    

@@ -1,0 +1,8 @@
+
+ToyamaExpress is a restaurant with japanese cuisine
+in East District serving tonkatsu.
+Their signature dish is ramen. 
+The average price per person is $43. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+NewBengaluruExpress is a restaurant with indian cuisine
+in East District serving samosa and naan.
+Their signature dish is tandoori chicken. 
+The average price per person is $15. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

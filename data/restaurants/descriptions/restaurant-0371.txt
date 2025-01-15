@@ -1,0 +1,8 @@
+
+NewMexicaliGarden is a restaurant with mexican cuisine
+in South District serving burritos, guacamole and carnitas.
+Their signature dish is quesadillas. 
+The average price per person is $17. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    

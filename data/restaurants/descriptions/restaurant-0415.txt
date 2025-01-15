@@ -1,0 +1,8 @@
+
+NewGuadalupe is a restaurant with mexican cuisine
+in East District serving burritos, guacamole and carnitas.
+Their signature dish is tacos. 
+The average price per person is $28. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+BigMexicaliGarden is a restaurant with mexican cuisine
+in East District serving guacamole and carnitas.
+Their signature dish is churros. 
+The average price per person is $19. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

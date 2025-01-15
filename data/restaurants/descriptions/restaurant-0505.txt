@@ -1,0 +1,8 @@
+
+OldPalermoHouse is a restaurant with italian cuisine
+in North District serving risotto and pesto.
+Their signature dish is pasta. 
+The average price per person is $60. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

@@ -1,0 +1,8 @@
+
+GoodJapanHouse is a restaurant with japanese cuisine
+in North District serving tonkatsu and sushi.
+Their signature dish is okonomiyaki. 
+The average price per person is $49. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    

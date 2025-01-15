@@ -1,0 +1,8 @@
+
+LittleXalapaExpress is a restaurant with mexican cuisine
+in East District serving churros and carnitas.
+Their signature dish is quesadillas. 
+The average price per person is $34. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

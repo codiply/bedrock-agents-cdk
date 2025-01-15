@@ -1,0 +1,8 @@
+
+LittleMexicoHouse is a restaurant with mexican cuisine
+in East District serving tacos.
+Their signature dish is churros. 
+The average price per person is $15. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

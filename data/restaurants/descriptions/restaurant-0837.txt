@@ -1,0 +1,8 @@
+
+BigJapanHouse is a restaurant with japanese cuisine
+in North District serving miso soup and tonkatsu.
+Their signature dish is sashimi. 
+The average price per person is $59. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

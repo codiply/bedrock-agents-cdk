@@ -1,0 +1,8 @@
+
+Acropolis is a restaurant with greek cuisine
+in South District serving tzatziki and mousaka.
+Their signature dish is greek salad. 
+The average price per person is $14. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

@@ -1,0 +1,8 @@
+
+GreatXalapaHouse is a restaurant with mexican cuisine
+in East District serving quesadillas, carnitas and churros.
+Their signature dish is burritos. 
+The average price per person is $10. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 3 stars.
+    

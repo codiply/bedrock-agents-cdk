@@ -1,0 +1,8 @@
+
+NewCatania is a restaurant with italian cuisine
+in North District serving pesto and lasagna.
+Their signature dish is pizza. 
+The average price per person is $77. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

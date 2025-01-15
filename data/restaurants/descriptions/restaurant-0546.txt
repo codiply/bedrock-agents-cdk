@@ -1,0 +1,8 @@
+
+GreatJaipurHouse is a restaurant with indian cuisine
+in East District serving biryani.
+Their signature dish is rogan josh. 
+The average price per person is $32. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    

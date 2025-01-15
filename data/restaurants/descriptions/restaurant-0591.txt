@@ -1,0 +1,8 @@
+
+NewMykonosExpress is a restaurant with greek cuisine
+in West District serving tzatziki.
+Their signature dish is pastitsio. 
+The average price per person is $5. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

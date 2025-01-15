@@ -1,0 +1,8 @@
+
+GreatCataniaGarden is a restaurant with italian cuisine
+in North District serving pesto, risotto and lasagna.
+Their signature dish is gelato. 
+The average price per person is $40. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 3 stars.
+    

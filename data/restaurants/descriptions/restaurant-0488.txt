@@ -1,0 +1,8 @@
+
+LittleXalapaHouse is a restaurant with mexican cuisine
+in East District serving carnitas, churros and quesadillas.
+Their signature dish is tacos. 
+The average price per person is $13. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

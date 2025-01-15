@@ -1,0 +1,8 @@
+
+VeniceHouse is a restaurant with italian cuisine
+in North District serving pesto.
+Their signature dish is lasagna. 
+The average price per person is $65. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+PerfectGuadalupe is a restaurant with mexican cuisine
+in East District serving carnitas and churros.
+Their signature dish is burritos. 
+The average price per person is $35. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

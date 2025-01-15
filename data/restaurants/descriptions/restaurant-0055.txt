@@ -1,0 +1,8 @@
+
+GoodCataniaHouse is a restaurant with italian cuisine
+in North District serving lasagna, pizza and pesto.
+Their signature dish is pasta. 
+The average price per person is $41. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

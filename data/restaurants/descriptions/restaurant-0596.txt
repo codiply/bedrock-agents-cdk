@@ -1,0 +1,8 @@
+
+GreatNagoyaGarden is a restaurant with japanese cuisine
+in East District serving miso soup, ramen and tonkatsu.
+Their signature dish is sushi. 
+The average price per person is $12. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

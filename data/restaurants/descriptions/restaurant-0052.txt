@@ -1,0 +1,8 @@
+
+BigPalermoExpress is a restaurant with italian cuisine
+in West District serving lasagna.
+Their signature dish is pesto. 
+The average price per person is $8. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    

@@ -1,0 +1,8 @@
+
+NewMilan is a restaurant with italian cuisine
+in West District serving pasta.
+Their signature dish is pesto. 
+The average price per person is $14. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+OaxacaGarden is a restaurant with mexican cuisine
+in East District serving carnitas, quesadillas and tacos.
+Their signature dish is burritos. 
+The average price per person is $17. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+PerfectOsakaGarden is a restaurant with japanese cuisine
+in North District serving sushi and sashimi.
+Their signature dish is ramen. 
+The average price per person is $33. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

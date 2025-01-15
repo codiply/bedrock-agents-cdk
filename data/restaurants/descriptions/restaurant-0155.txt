@@ -1,0 +1,8 @@
+
+BigAcropolis is a restaurant with greek cuisine
+in South District serving tzatziki, spinach pie and mousaka.
+Their signature dish is greek salad. 
+The average price per person is $29. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

@@ -1,0 +1,8 @@
+
+NewIndiaGarden is a restaurant with indian cuisine
+in West District serving biryani.
+Their signature dish is naan. 
+The average price per person is $12. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

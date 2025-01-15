@@ -1,0 +1,8 @@
+
+GoodOaxacaHouse is a restaurant with mexican cuisine
+in South District serving burritos.
+Their signature dish is tacos. 
+The average price per person is $7. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

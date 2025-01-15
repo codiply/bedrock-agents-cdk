@@ -1,0 +1,8 @@
+
+BigThessalonikiHouse is a restaurant with greek cuisine
+in South District serving cheese pie.
+Their signature dish is greek salad. 
+The average price per person is $25. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

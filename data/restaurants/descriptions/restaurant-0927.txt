@@ -1,0 +1,8 @@
+
+GreatParos is a restaurant with greek cuisine
+in West District serving mousaka and spinach pie.
+Their signature dish is greek salad. 
+The average price per person is $13. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

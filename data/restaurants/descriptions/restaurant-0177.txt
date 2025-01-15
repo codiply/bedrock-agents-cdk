@@ -1,0 +1,8 @@
+
+PerfectKolkataGarden is a restaurant with indian cuisine
+in East District serving tandoori chicken.
+Their signature dish is samosa. 
+The average price per person is $23. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

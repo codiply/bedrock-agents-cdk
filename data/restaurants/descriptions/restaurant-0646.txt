@@ -1,0 +1,8 @@
+
+LittleFlorenceExpress is a restaurant with italian cuisine
+in North District serving risotto and lasagna.
+Their signature dish is pasta. 
+The average price per person is $52. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    

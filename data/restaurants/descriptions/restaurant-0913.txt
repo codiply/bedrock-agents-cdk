@@ -1,0 +1,8 @@
+
+PerfectKyotoHouse is a restaurant with japanese cuisine
+in East District serving miso soup, okonomiyaki and sushi.
+Their signature dish is ramen. 
+The average price per person is $34. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    

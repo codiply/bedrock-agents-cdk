@@ -1,0 +1,8 @@
+
+PerfectJapanExpress is a restaurant with japanese cuisine
+in East District serving okonomiyaki and sushi.
+Their signature dish is sashimi. 
+The average price per person is $33. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 2 stars.
+    

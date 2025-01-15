@@ -1,0 +1,8 @@
+
+OldVeniceGarden is a restaurant with italian cuisine
+in North District serving risotto, gelato and pesto.
+Their signature dish is pasta. 
+The average price per person is $132. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

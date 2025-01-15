@@ -1,0 +1,8 @@
+
+BigRaipurGarden is a restaurant with indian cuisine
+in West District serving biryani, samosa and tandoori chicken.
+Their signature dish is naan. 
+The average price per person is $14. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

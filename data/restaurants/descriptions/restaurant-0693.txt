@@ -1,0 +1,8 @@
+
+NewMumbaiExpress is a restaurant with indian cuisine
+in East District serving rogan josh, naan and samosa.
+Their signature dish is butter chicken. 
+The average price per person is $34. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

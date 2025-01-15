@@ -1,0 +1,8 @@
+
+PerfectTurinGarden is a restaurant with italian cuisine
+in South District serving lasagna, risotto and pizza.
+Their signature dish is gelato. 
+The average price per person is $17. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    

@@ -1,0 +1,8 @@
+
+LittleJapanHouse is a restaurant with japanese cuisine
+in North District serving miso soup, okonomiyaki and sashimi.
+Their signature dish is ramen. 
+The average price per person is $48. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

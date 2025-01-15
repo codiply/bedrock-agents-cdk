@@ -1,0 +1,8 @@
+
+AthensHouse is a restaurant with greek cuisine
+in West District serving cheese pie and mousaka.
+Their signature dish is spinach pie. 
+The average price per person is $6. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

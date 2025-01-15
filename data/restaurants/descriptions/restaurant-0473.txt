@@ -1,0 +1,8 @@
+
+NewVenice is a restaurant with italian cuisine
+in South District serving gelato.
+Their signature dish is risotto. 
+The average price per person is $5. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 3 stars.
+    

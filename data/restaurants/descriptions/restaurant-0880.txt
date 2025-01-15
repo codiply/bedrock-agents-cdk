@@ -1,0 +1,8 @@
+
+OldCorfu is a restaurant with greek cuisine
+in South District serving spinach pie and mousaka.
+Their signature dish is pastitsio. 
+The average price per person is $19. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

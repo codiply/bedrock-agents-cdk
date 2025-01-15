@@ -1,0 +1,8 @@
+
+PerfectMonterreyGarden is a restaurant with mexican cuisine
+in East District serving carnitas, burritos and quesadillas.
+Their signature dish is tacos. 
+The average price per person is $26. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

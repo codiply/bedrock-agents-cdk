@@ -1,0 +1,8 @@
+
+LittleKyotoGarden is a restaurant with japanese cuisine
+in North District serving sushi and ramen.
+Their signature dish is miso soup. 
+The average price per person is $31. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    

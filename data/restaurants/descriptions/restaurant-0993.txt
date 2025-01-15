@@ -1,0 +1,8 @@
+
+Raipur is a restaurant with indian cuisine
+in East District serving biryani and tandoori chicken.
+Their signature dish is naan. 
+The average price per person is $26. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

@@ -1,0 +1,8 @@
+
+LittleKobeExpress is a restaurant with japanese cuisine
+in North District serving tonkatsu and sushi.
+Their signature dish is okonomiyaki. 
+The average price per person is $61. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

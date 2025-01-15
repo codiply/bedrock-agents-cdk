@@ -1,0 +1,8 @@
+
+OldCataniaExpress is a restaurant with italian cuisine
+in North District serving gelato, pesto and pizza.
+Their signature dish is pasta. 
+The average price per person is $42. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

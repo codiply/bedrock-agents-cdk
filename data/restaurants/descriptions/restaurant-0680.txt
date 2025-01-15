@@ -1,0 +1,8 @@
+
+JaipurHouse is a restaurant with indian cuisine
+in West District serving naan.
+Their signature dish is biryani. 
+The average price per person is $10. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

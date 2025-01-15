@@ -1,0 +1,8 @@
+
+LittlePuneExpress is a restaurant with indian cuisine
+in East District serving naan, samosa and rogan josh.
+Their signature dish is tandoori chicken. 
+The average price per person is $27. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

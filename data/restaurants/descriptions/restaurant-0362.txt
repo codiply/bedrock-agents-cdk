@@ -1,0 +1,8 @@
+
+LittleTurinExpress is a restaurant with italian cuisine
+in North District serving pasta and gelato.
+Their signature dish is pesto. 
+The average price per person is $53. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 3 stars.
+    

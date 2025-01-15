@@ -1,0 +1,8 @@
+
+NewJapanExpress is a restaurant with japanese cuisine
+in East District serving ramen.
+Their signature dish is sushi. 
+The average price per person is $11. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    

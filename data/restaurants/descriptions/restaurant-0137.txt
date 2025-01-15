@@ -1,0 +1,8 @@
+
+GreatIndiaHouse is a restaurant with indian cuisine
+in West District serving rogan josh and butter chicken.
+Their signature dish is tandoori chicken. 
+The average price per person is $12. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 5 stars.
+    

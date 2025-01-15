@@ -1,0 +1,8 @@
+
+GoodNaplesHouse is a restaurant with italian cuisine
+in North District serving pasta, pizza and pesto.
+Their signature dish is lasagna. 
+The average price per person is $39. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

@@ -1,0 +1,8 @@
+
+NewFukuokaHouse is a restaurant with japanese cuisine
+in East District serving miso soup, sashimi and tonkatsu.
+Their signature dish is okonomiyaki. 
+The average price per person is $34. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

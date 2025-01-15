@@ -1,0 +1,8 @@
+
+GreatKochiExpress is a restaurant with indian cuisine
+in East District serving tandoori chicken and butter chicken.
+Their signature dish is biryani. 
+The average price per person is $32. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

@@ -1,0 +1,8 @@
+
+BigAthensHouse is a restaurant with greek cuisine
+in South District serving greek salad and spinach pie.
+Their signature dish is cheese pie. 
+The average price per person is $18. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

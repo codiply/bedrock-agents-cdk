@@ -1,0 +1,8 @@
+
+FukuokaGarden is a restaurant with japanese cuisine
+in East District serving okonomiyaki.
+Their signature dish is ramen. 
+The average price per person is $36. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

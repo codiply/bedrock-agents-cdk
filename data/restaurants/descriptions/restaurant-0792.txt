@@ -1,0 +1,8 @@
+
+BigNagoyaExpress is a restaurant with japanese cuisine
+in East District serving ramen and tonkatsu.
+Their signature dish is miso soup. 
+The average price per person is $50. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

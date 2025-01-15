@@ -1,0 +1,8 @@
+
+NewBengaluruGarden is a restaurant with indian cuisine
+in East District serving butter chicken.
+Their signature dish is biryani. 
+The average price per person is $25. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

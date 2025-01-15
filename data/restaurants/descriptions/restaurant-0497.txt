@@ -1,0 +1,8 @@
+
+GreatMonterrey is a restaurant with mexican cuisine
+in South District serving guacamole, carnitas and churros.
+Their signature dish is tacos. 
+The average price per person is $30. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

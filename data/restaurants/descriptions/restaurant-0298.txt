@@ -1,0 +1,8 @@
+
+PerfectGuadalajaraExpress is a restaurant with mexican cuisine
+in South District serving burritos, guacamole and churros.
+Their signature dish is tacos. 
+The average price per person is $16. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

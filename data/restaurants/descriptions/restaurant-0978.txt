@@ -1,0 +1,8 @@
+
+GoodNagoyaHouse is a restaurant with japanese cuisine
+in North District serving tonkatsu, ramen and okonomiyaki.
+Their signature dish is sushi. 
+The average price per person is $26. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    

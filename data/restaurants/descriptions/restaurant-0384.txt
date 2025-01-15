@@ -1,0 +1,8 @@
+
+NewFlorenceExpress is a restaurant with italian cuisine
+in West District serving risotto, lasagna and pesto.
+Their signature dish is gelato. 
+The average price per person is $9. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

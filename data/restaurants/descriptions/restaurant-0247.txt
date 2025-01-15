@@ -1,0 +1,8 @@
+
+LittleMumbaiHouse is a restaurant with indian cuisine
+in East District serving rogan josh and biryani.
+Their signature dish is samosa. 
+The average price per person is $26. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

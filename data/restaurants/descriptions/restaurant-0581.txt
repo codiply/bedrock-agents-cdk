@@ -1,0 +1,8 @@
+
+NewKochiExpress is a restaurant with indian cuisine
+in West District serving samosa, naan and tandoori chicken.
+Their signature dish is rogan josh. 
+The average price per person is $15. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

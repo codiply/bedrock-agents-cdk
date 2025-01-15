@@ -1,0 +1,8 @@
+
+MilanExpress is a restaurant with italian cuisine
+in West District serving lasagna and risotto.
+Their signature dish is pasta. 
+The average price per person is $11. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 3 stars.
+    

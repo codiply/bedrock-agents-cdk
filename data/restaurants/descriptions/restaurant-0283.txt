@@ -1,0 +1,8 @@
+
+GreatBengaluru is a restaurant with indian cuisine
+in West District serving naan.
+Their signature dish is samosa. 
+The average price per person is $8. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 2 stars.
+    

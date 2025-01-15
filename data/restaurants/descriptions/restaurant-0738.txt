@@ -1,0 +1,8 @@
+
+LittleSuratHouse is a restaurant with indian cuisine
+in East District serving samosa.
+Their signature dish is biryani. 
+The average price per person is $21. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

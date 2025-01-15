@@ -1,0 +1,8 @@
+
+LittleTurinHouse is a restaurant with italian cuisine
+in North District serving pizza, gelato and pasta.
+Their signature dish is pesto. 
+The average price per person is $57. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

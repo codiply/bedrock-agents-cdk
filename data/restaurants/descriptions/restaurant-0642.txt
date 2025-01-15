@@ -1,0 +1,8 @@
+
+OldBengaluruHouse is a restaurant with indian cuisine
+in West District serving biryani.
+Their signature dish is naan. 
+The average price per person is $15. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    

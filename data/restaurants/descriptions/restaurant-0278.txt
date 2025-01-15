@@ -1,0 +1,8 @@
+
+NewRaipurExpress is a restaurant with indian cuisine
+in West District serving rogan josh.
+Their signature dish is tandoori chicken. 
+The average price per person is $17. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

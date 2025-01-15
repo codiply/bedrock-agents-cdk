@@ -1,0 +1,8 @@
+
+BigParthenon is a restaurant with greek cuisine
+in South District serving spinach pie.
+Their signature dish is tzatziki. 
+The average price per person is $9. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 5 stars.
+    

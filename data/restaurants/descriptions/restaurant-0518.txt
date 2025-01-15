@@ -1,0 +1,8 @@
+
+BigMykonosExpress is a restaurant with greek cuisine
+in West District serving mousaka.
+Their signature dish is greek salad. 
+The average price per person is $9. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    

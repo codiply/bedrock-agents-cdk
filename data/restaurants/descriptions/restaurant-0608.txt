@@ -1,0 +1,8 @@
+
+BigKyotoGarden is a restaurant with japanese cuisine
+in East District serving ramen, sashimi and sushi.
+Their signature dish is okonomiyaki. 
+The average price per person is $16. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

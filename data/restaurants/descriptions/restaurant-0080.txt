@@ -1,0 +1,8 @@
+
+OldFlorenceHouse is a restaurant with italian cuisine
+in North District serving gelato and pizza.
+Their signature dish is lasagna. 
+The average price per person is $17. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

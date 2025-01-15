@@ -1,0 +1,8 @@
+
+LittleKochiHouse is a restaurant with indian cuisine
+in East District serving rogan josh and naan.
+Their signature dish is samosa. 
+The average price per person is $39. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

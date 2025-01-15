@@ -1,0 +1,8 @@
+
+PerfectMilan is a restaurant with italian cuisine
+in South District serving gelato and lasagna.
+Their signature dish is pasta. 
+The average price per person is $18. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

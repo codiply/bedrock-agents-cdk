@@ -1,0 +1,8 @@
+
+OldParthenonExpress is a restaurant with greek cuisine
+in West District serving mousaka.
+Their signature dish is pastitsio. 
+The average price per person is $3. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

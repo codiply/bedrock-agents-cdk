@@ -1,0 +1,8 @@
+
+GuadalajaraExpress is a restaurant with mexican cuisine
+in South District serving churros.
+Their signature dish is carnitas. 
+The average price per person is $15. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

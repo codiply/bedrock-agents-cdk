@@ -1,0 +1,8 @@
+
+GreatKobe is a restaurant with japanese cuisine
+in North District serving okonomiyaki, sushi and miso soup.
+Their signature dish is ramen. 
+The average price per person is $61. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

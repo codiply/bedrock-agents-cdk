@@ -1,0 +1,8 @@
+
+GoodKobeHouse is a restaurant with japanese cuisine
+in East District serving miso soup, sushi and sashimi.
+Their signature dish is tonkatsu. 
+The average price per person is $30. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+BigKobeGarden is a restaurant with japanese cuisine
+in North District serving ramen and sushi.
+Their signature dish is okonomiyaki. 
+The average price per person is $67. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

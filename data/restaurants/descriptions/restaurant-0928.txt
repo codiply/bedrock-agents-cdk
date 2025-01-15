@@ -1,0 +1,8 @@
+
+BigTurinHouse is a restaurant with italian cuisine
+in North District serving pesto, pasta and lasagna.
+Their signature dish is risotto. 
+The average price per person is $71. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

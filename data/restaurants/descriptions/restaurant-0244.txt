@@ -1,0 +1,8 @@
+
+Xalapa is a restaurant with mexican cuisine
+in East District serving carnitas, guacamole and tacos.
+Their signature dish is burritos. 
+The average price per person is $24. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

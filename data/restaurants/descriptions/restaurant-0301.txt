@@ -1,0 +1,8 @@
+
+PerfectThessalonikiHouse is a restaurant with greek cuisine
+in West District serving mousaka.
+Their signature dish is spinach pie. 
+The average price per person is $12. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

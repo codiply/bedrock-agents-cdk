@@ -1,0 +1,8 @@
+
+GreatCataniaHouse is a restaurant with italian cuisine
+in South District serving risotto, gelato and lasagna.
+Their signature dish is pasta. 
+The average price per person is $20. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

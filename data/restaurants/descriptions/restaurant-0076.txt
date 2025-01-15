@@ -1,0 +1,8 @@
+
+Sapporo is a restaurant with japanese cuisine
+in East District serving miso soup, sashimi and okonomiyaki.
+Their signature dish is sushi. 
+The average price per person is $20. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    

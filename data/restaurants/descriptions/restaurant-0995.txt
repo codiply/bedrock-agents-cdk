@@ -1,0 +1,8 @@
+
+KyotoGarden is a restaurant with japanese cuisine
+in North District serving sashimi and tonkatsu.
+Their signature dish is miso soup. 
+The average price per person is $80. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    

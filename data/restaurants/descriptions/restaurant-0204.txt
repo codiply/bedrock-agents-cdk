@@ -1,0 +1,8 @@
+
+NewRaipurGarden is a restaurant with indian cuisine
+in West District serving samosa.
+Their signature dish is tandoori chicken. 
+The average price per person is $7. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

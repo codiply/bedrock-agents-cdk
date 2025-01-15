@@ -1,0 +1,8 @@
+
+LittlePuneHouse is a restaurant with indian cuisine
+in East District serving rogan josh.
+Their signature dish is naan. 
+The average price per person is $27. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+GreatKyotoExpress is a restaurant with japanese cuisine
+in North District serving sushi and sashimi.
+Their signature dish is okonomiyaki. 
+The average price per person is $63. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

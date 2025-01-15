@@ -1,0 +1,8 @@
+
+GoodSantoriniGarden is a restaurant with greek cuisine
+in South District serving pastitsio, cheese pie and greek salad.
+Their signature dish is tzatziki. 
+The average price per person is $18. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

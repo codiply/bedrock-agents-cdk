@@ -1,0 +1,8 @@
+
+GreatRaipurExpress is a restaurant with indian cuisine
+in West District serving biryani.
+Their signature dish is naan. 
+The average price per person is $10. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+GreatNaples is a restaurant with italian cuisine
+in North District serving lasagna.
+Their signature dish is pasta. 
+The average price per person is $61. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

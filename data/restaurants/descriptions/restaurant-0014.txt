@@ -1,0 +1,8 @@
+
+PerfectXalapaExpress is a restaurant with mexican cuisine
+in East District serving burritos and churros.
+Their signature dish is quesadillas. 
+The average price per person is $32. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

@@ -1,0 +1,8 @@
+
+KobeExpress is a restaurant with japanese cuisine
+in North District serving ramen, miso soup and sashimi.
+Their signature dish is okonomiyaki. 
+The average price per person is $60. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    

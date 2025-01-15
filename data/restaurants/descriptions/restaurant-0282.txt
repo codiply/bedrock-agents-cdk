@@ -1,0 +1,8 @@
+
+GoodNagoyaGarden is a restaurant with japanese cuisine
+in East District serving sashimi.
+Their signature dish is miso soup. 
+The average price per person is $39. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    

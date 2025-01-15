@@ -1,0 +1,8 @@
+
+OldGreeceHouse is a restaurant with greek cuisine
+in South District serving spinach pie, cheese pie and greek salad.
+Their signature dish is tzatziki. 
+The average price per person is $17. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

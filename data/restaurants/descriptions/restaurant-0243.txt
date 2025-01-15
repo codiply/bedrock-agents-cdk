@@ -1,0 +1,8 @@
+
+GreatGuadalupeExpress is a restaurant with mexican cuisine
+in East District serving churros, tacos and burritos.
+Their signature dish is guacamole. 
+The average price per person is $22. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 2 stars.
+    

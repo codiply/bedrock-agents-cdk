@@ -1,0 +1,8 @@
+
+OldKyotoGarden is a restaurant with japanese cuisine
+in East District serving tonkatsu, sushi and ramen.
+Their signature dish is sashimi. 
+The average price per person is $17. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

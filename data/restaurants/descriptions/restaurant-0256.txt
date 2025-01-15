@@ -1,0 +1,8 @@
+
+NewIndia is a restaurant with indian cuisine
+in West District serving butter chicken, naan and rogan josh.
+Their signature dish is samosa. 
+The average price per person is $10. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

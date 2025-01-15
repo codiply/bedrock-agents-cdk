@@ -1,0 +1,8 @@
+
+BigPalermoHouse is a restaurant with italian cuisine
+in North District serving lasagna.
+Their signature dish is pasta. 
+The average price per person is $19. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

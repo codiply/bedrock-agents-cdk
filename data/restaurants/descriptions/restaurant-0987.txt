@@ -1,0 +1,8 @@
+
+GoodRaipur is a restaurant with indian cuisine
+in East District serving tandoori chicken and rogan josh.
+Their signature dish is butter chicken. 
+The average price per person is $28. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

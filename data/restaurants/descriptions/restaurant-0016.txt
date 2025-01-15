@@ -1,0 +1,8 @@
+
+NewFlorence is a restaurant with italian cuisine
+in North District serving gelato.
+Their signature dish is risotto. 
+The average price per person is $44. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

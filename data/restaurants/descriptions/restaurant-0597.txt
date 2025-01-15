@@ -1,0 +1,8 @@
+
+BigXalapaHouse is a restaurant with mexican cuisine
+in South District serving carnitas.
+Their signature dish is tacos. 
+The average price per person is $5. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    

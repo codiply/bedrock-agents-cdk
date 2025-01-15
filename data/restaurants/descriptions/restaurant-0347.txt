@@ -1,0 +1,8 @@
+
+PerfectNagoyaExpress is a restaurant with japanese cuisine
+in East District serving sushi, sashimi and ramen.
+Their signature dish is tonkatsu. 
+The average price per person is $27. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+GoodFukuoka is a restaurant with japanese cuisine
+in East District serving sashimi, tonkatsu and ramen.
+Their signature dish is okonomiyaki. 
+The average price per person is $32. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

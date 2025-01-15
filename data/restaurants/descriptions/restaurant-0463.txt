@@ -1,0 +1,8 @@
+
+BigJaipurHouse is a restaurant with indian cuisine
+in East District serving butter chicken.
+Their signature dish is naan. 
+The average price per person is $34. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

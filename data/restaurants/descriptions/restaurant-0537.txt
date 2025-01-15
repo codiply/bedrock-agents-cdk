@@ -1,0 +1,8 @@
+
+OldTokyoHouse is a restaurant with japanese cuisine
+in East District serving miso soup.
+Their signature dish is sashimi. 
+The average price per person is $21. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

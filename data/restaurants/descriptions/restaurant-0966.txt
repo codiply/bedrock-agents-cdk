@@ -1,0 +1,8 @@
+
+NewSapporoExpress is a restaurant with japanese cuisine
+in East District serving sushi and ramen.
+Their signature dish is sashimi. 
+The average price per person is $37. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 3 stars.
+    

@@ -1,0 +1,8 @@
+
+LittleBengaluruGarden is a restaurant with indian cuisine
+in East District serving naan, butter chicken and rogan josh.
+Their signature dish is samosa. 
+The average price per person is $33. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

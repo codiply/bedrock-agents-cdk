@@ -1,0 +1,8 @@
+
+LittleMexicaliGarden is a restaurant with mexican cuisine
+in South District serving burritos, churros and guacamole.
+Their signature dish is quesadillas. 
+The average price per person is $13. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    

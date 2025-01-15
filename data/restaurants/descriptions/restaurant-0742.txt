@@ -1,0 +1,8 @@
+
+OldXalapaHouse is a restaurant with mexican cuisine
+in East District serving quesadillas, carnitas and guacamole.
+Their signature dish is churros. 
+The average price per person is $25. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 3 stars.
+    

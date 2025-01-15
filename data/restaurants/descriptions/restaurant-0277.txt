@@ -1,0 +1,8 @@
+
+LittleItalyHouse is a restaurant with italian cuisine
+in North District serving lasagna, risotto and gelato.
+Their signature dish is pesto. 
+The average price per person is $43. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

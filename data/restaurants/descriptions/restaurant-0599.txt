@@ -1,0 +1,8 @@
+
+ThessalonikiGarden is a restaurant with greek cuisine
+in West District serving tzatziki.
+Their signature dish is greek salad. 
+The average price per person is $6. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    

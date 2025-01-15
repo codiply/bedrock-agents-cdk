@@ -1,0 +1,8 @@
+
+Kochi is a restaurant with indian cuisine
+in East District serving naan, biryani and butter chicken.
+Their signature dish is rogan josh. 
+The average price per person is $39. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

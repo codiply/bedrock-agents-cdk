@@ -1,0 +1,8 @@
+
+NewTurinHouse is a restaurant with italian cuisine
+in West District serving lasagna and gelato.
+Their signature dish is risotto. 
+The average price per person is $13. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

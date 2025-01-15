@@ -1,0 +1,8 @@
+
+LittleTolucaGarden is a restaurant with mexican cuisine
+in South District serving carnitas and tacos.
+Their signature dish is burritos. 
+The average price per person is $20. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

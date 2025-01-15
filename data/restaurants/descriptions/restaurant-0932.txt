@@ -1,0 +1,8 @@
+
+GoodToyamaGarden is a restaurant with japanese cuisine
+in East District serving ramen, okonomiyaki and sashimi.
+Their signature dish is tonkatsu. 
+The average price per person is $18. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 2 stars.
+    

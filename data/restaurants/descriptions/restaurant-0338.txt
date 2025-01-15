@@ -1,0 +1,8 @@
+
+PerfectKyotoExpress is a restaurant with japanese cuisine
+in East District serving sashimi and tonkatsu.
+Their signature dish is sushi. 
+The average price per person is $32. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

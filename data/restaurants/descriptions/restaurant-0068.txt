@@ -1,0 +1,8 @@
+
+OldGuadalajaraExpress is a restaurant with mexican cuisine
+in East District serving carnitas, churros and quesadillas.
+Their signature dish is burritos. 
+The average price per person is $23. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    

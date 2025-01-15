@@ -1,0 +1,8 @@
+
+NewParosExpress is a restaurant with greek cuisine
+in South District serving pastitsio.
+Their signature dish is cheese pie. 
+The average price per person is $24. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 4 stars.
+    

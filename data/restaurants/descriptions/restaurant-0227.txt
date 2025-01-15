@@ -1,0 +1,8 @@
+
+GoodFlorenceGarden is a restaurant with italian cuisine
+in North District serving pesto, pasta and gelato.
+Their signature dish is risotto. 
+The average price per person is $75. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    

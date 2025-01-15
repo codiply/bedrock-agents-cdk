@@ -1,0 +1,8 @@
+
+LittleCataniaGarden is a restaurant with italian cuisine
+in South District serving pesto, risotto and gelato.
+Their signature dish is pizza. 
+The average price per person is $12. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

@@ -1,0 +1,8 @@
+
+OldPalermo is a restaurant with italian cuisine
+in North District serving risotto and pizza.
+Their signature dish is gelato. 
+The average price per person is $37. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    

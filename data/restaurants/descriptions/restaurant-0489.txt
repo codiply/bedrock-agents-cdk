@@ -1,0 +1,8 @@
+
+GreatMexicoExpress is a restaurant with mexican cuisine
+in East District serving burritos.
+Their signature dish is churros. 
+The average price per person is $17. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

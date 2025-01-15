@@ -1,0 +1,8 @@
+
+LittleNaplesHouse is a restaurant with italian cuisine
+in North District serving risotto, gelato and pasta.
+Their signature dish is lasagna. 
+The average price per person is $60. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    

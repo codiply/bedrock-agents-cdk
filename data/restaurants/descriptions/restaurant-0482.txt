@@ -1,0 +1,8 @@
+
+NewKobeGarden is a restaurant with japanese cuisine
+in East District serving tonkatsu, sashimi and okonomiyaki.
+Their signature dish is ramen. 
+The average price per person is $27. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    

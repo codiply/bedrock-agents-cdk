@@ -1,0 +1,8 @@
+
+BigTijuana is a restaurant with mexican cuisine
+in South District serving quesadillas, carnitas and churros.
+Their signature dish is guacamole. 
+The average price per person is $21. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 5 stars.
+    

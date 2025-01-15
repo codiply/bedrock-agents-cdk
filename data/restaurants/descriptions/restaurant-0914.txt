@@ -1,0 +1,8 @@
+
+PerfectMilanHouse is a restaurant with italian cuisine
+in North District serving pizza.
+Their signature dish is pesto. 
+The average price per person is $31. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 2 stars.
+    

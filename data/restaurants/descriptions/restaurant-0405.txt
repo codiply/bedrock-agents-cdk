@@ -1,0 +1,8 @@
+
+PerfectItalyExpress is a restaurant with italian cuisine
+in North District serving pasta, lasagna and pesto.
+Their signature dish is gelato. 
+The average price per person is $18. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    

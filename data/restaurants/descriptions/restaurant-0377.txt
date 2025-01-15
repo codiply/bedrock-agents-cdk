@@ -1,0 +1,8 @@
+
+LittleIndiaExpress is a restaurant with indian cuisine
+in West District serving rogan josh and samosa.
+Their signature dish is tandoori chicken. 
+The average price per person is $7. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    

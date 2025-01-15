@@ -1,0 +1,8 @@
+
+OldMexico is a restaurant with mexican cuisine
+in East District serving tacos, burritos and churros.
+Their signature dish is guacamole. 
+The average price per person is $39. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 2 stars.
+    

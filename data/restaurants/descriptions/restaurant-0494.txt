@@ -1,0 +1,8 @@
+
+LittleBengaluru is a restaurant with indian cuisine
+in West District serving samosa, biryani and tandoori chicken.
+Their signature dish is butter chicken. 
+The average price per person is $9. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 5 stars.
+    

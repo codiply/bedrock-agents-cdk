@@ -1,0 +1,8 @@
+
+LittleMumbai is a restaurant with indian cuisine
+in West District serving butter chicken, tandoori chicken and rogan josh.
+Their signature dish is samosa. 
+The average price per person is $24. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 3 stars.
+    
