@@ -359,7 +359,7 @@ class RestaurantReservationAgentStack(Stack):
             sort_key=dynamodb.Attribute(
                 name="main_guest_name", type=dynamodb.AttributeType.STRING
             ),
-            removal_policy=aws_cdk.RemovalPolicy.DESTROY
+            removal_policy=aws_cdk.RemovalPolicy.DESTROY,
         )
 
         # Define the IAM role for the reservations lambda function
