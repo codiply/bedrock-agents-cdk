@@ -1,0 +1,19 @@
+version: "3.2"
+services:
+  jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - type: bind
+        source: ../../notebooks/
+        target: /home/jovyan/work/notebooks/
+        read_only: false
+      - type: bind
+        source: ../../data/
+        target: /home/jovyan/work/data/
+        read_only: true
+      - type: bind
+        source: ~/.aws/
+        target: /home/jovyan/.aws/
+        read_only: true
