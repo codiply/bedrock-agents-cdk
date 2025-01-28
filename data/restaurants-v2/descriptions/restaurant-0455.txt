@@ -1,0 +1,14 @@
+
+LittleMumbaiGarden is a restaurant with Indian cuisine
+in East District serving biryani, tandoori chicken and rogan josh.
+Their signature dish is samosa. 
+The average price per person is $38. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+momzn.eggly@dulcy.com (13.221.185.92): The rogan josh is great
+    
+ykyveqtw.ilhopmc@whwky.com (98.63.22.117): The biryani is nice
+    

@@ -1,0 +1,12 @@
+
+NewVenice is a restaurant with Italian cuisine
+in North District serving pasta and pizza.
+Their signature dish is gelato. 
+The average price per person is $34. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+ma.virupdpms@zgcsoz.com (56.51.46.137): The gelato is great
+    

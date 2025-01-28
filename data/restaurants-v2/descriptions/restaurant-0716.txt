@@ -1,0 +1,18 @@
+
+GoodFlorenceExpress is a restaurant with Italian cuisine
+in South District serving gelato and risotto.
+Their signature dish is pasta. 
+The average price per person is $27. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+mxdy.hlby@rjcjdidmu.com (161.117.30.25): The gelato is bad
+    
+ailp.ruxk@pstfhwuuj.com (105.141.121.49): The gelato is nice
+    
+xfmitfrl.kw@jzazuzela.com (219.112.148.66): The risotto is awful
+    
+vpytlxn.yppbstu@mrerj.com (252.35.140.146): The pasta is disgusting
+    

@@ -1,0 +1,14 @@
+
+PerfectNagoyaExpress is a restaurant with Japanese cuisine
+in East District serving okonomiyaki and ramen.
+Their signature dish is sashimi. 
+The average price per person is $28. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+wm.ym@ujwhhdcu.com (253.160.69.176): The okonomiyaki is tasty
+    
+mfbcwji.tfriuyrozy@agwxpebyok.com (161.193.60.200): The ramen is excellent
+    

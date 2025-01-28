@@ -1,0 +1,14 @@
+
+PerfectMexicaliGarden is a restaurant with Mexican cuisine
+in East District serving churros and carnitas.
+Their signature dish is guacamole. 
+The average price per person is $14. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+gcrtao.bftvbax@zhroki.com (136.202.90.165): The churros is horrible
+    
+xo.wgp@auyjq.com (170.220.98.95): The churros is horrible
+    

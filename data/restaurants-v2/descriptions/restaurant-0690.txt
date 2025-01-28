@@ -1,0 +1,16 @@
+
+LittleFlorenceExpress is a restaurant with Italian cuisine
+in South District serving risotto and pasta.
+Their signature dish is pesto. 
+The average price per person is $7. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+ca.inmdbdukf@ecjyzgrti.com (233.248.189.79): The risotto is tasty
+    
+ma.virupdpms@zgcsoz.com (56.51.46.137): The pesto is awful
+    
+huuqzn.qgvifedioe@oygzhwoy.com (138.31.80.126): The pesto is mediocre
+    

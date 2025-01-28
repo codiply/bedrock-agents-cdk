@@ -1,0 +1,16 @@
+
+GoodSantorini is a restaurant with Greek cuisine
+in West District serving Greek salad.
+Their signature dish is cheese pie. 
+The average price per person is $10. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+wavg.rjiimhncb@wuahjpc.com (68.174.80.55): The Greek salad is great
+    
+gcqd.fmcv@wfwwocsy.com (217.147.30.228): The Greek salad is fresh
+    
+rhjy.tbgqcoke@cghgrbjvoe.com (185.10.200.167): The Greek salad is horrible
+    

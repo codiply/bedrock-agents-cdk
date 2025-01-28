@@ -1,0 +1,12 @@
+
+GoodMilan is a restaurant with Italian cuisine
+in North District serving pesto, gelato and lasagna.
+Their signature dish is pasta. 
+The average price per person is $80. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+sm.pdu@xhpmccgsjl.com (206.36.103.195): The pasta is horrible
+    

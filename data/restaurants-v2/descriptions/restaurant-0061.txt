@@ -1,0 +1,12 @@
+
+GoodTolucaGarden is a restaurant with Mexican cuisine
+in South District serving carnitas.
+Their signature dish is quesadillas. 
+The average price per person is $16. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+sm.pdu@xhpmccgsjl.com (206.36.103.195): The quesadillas is great
+    

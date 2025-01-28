@@ -1,0 +1,14 @@
+
+GoodGreeceHouse is a restaurant with Greek cuisine
+in South District serving pastitsio, mousaka and cheese pie.
+Their signature dish is spinach pie. 
+The average price per person is $9. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+ttjrxrkpuu.fgyhzu@kccphomh.com (199.158.165.143): The mousaka is delicious
+    
+vdxe.lkq@ttmpjg.com (43.149.132.71): The cheese pie is bad
+    

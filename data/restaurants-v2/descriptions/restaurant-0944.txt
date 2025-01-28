@@ -1,0 +1,16 @@
+
+GreatItalyGarden is a restaurant with Italian cuisine
+in North District serving pizza and pesto.
+Their signature dish is gelato. 
+The average price per person is $59. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+wt.flrxo@vozigx.com (233.197.225.221): The gelato is great
+    
+spyewwyjsx.kzwwl@kfdnnby.com (80.250.4.13): The gelato is disgusting
+    
+ndlcv.qhud@bpyjgwkjl.com (165.174.177.234): The gelato is horrible
+    

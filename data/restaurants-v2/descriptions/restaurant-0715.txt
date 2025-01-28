@@ -1,0 +1,26 @@
+
+KolkataExpress is a restaurant with Indian cuisine
+in East District serving naan and samosa.
+Their signature dish is butter chicken. 
+The average price per person is $14. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+tq.rafox@awmhovcdw.com (254.224.89.65): The butter chicken is nice
+    
+ncvhajdgz.bbcgkvcq@pvsuj.com (105.172.232.193): The butter chicken is tasty
+    
+bhqyu.xgfinjyvxv@sdajri.com (222.41.7.167): The naan is fresh
+    
+ayvt.uup@pzacyhxig.com (22.71.21.65): The butter chicken is disgusting
+    
+qirruqlil.hbxylvafzz@beuacegh.com (232.82.48.118): The butter chicken is disgusting
+    
+wavg.rjiimhncb@wuahjpc.com (68.174.80.55): The samosa is delicious
+    
+krnitf.gzgsonhafi@tpbkjqwb.com (101.246.68.187): The naan is bad
+    
+eqi.dsjcwjcop@igadynx.com (184.87.237.134): The naan is bad
+    

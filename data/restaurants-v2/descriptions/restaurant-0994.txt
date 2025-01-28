@@ -1,0 +1,14 @@
+
+Pune is a restaurant with Indian cuisine
+in East District serving naan.
+Their signature dish is biryani. 
+The average price per person is $34. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+ueslekj.yrth@zvuzxml.com (247.145.73.225): The biryani is disgusting
+    
+stnb.rpmxjsys@xotaqsje.com (12.34.112.218): The naan is horrible
+    

@@ -1,0 +1,14 @@
+
+GreatParthenonHouse is a restaurant with Greek cuisine
+in West District serving cheese pie.
+Their signature dish is mousaka. 
+The average price per person is $14. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+zc.vdckmmtxk@ejexhj.com (200.46.73.172): The cheese pie is disgusting
+    
+huuqzn.qgvifedioe@oygzhwoy.com (138.31.80.126): The mousaka is awful
+    

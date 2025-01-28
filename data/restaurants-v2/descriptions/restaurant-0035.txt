@@ -1,0 +1,14 @@
+
+NewKolkataGarden is a restaurant with Indian cuisine
+in West District serving samosa.
+Their signature dish is rogan josh. 
+The average price per person is $15. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+rhjy.tbgqcoke@cghgrbjvoe.com (185.10.200.167): The samosa is mediocre
+    
+owpnprudb.rrhhgk@umirjuoz.com (6.191.228.42): The rogan josh is horrible
+    

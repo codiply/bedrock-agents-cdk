@@ -1,0 +1,12 @@
+
+OldNagoya is a restaurant with Japanese cuisine
+in East District serving miso soup, sashimi and sushi.
+Their signature dish is tonkatsu. 
+The average price per person is $27. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+ob.dmbrx@chqfews.com (242.67.209.107): The miso soup is good
+    

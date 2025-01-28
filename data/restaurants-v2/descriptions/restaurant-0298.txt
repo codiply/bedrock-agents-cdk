@@ -1,0 +1,14 @@
+
+GoodToyama is a restaurant with Japanese cuisine
+in North District serving okonomiyaki, sushi and sashimi.
+Their signature dish is tonkatsu. 
+The average price per person is $64. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+ic.ecynkdey@yivoajoj.com (253.38.1.86): The sushi is awful
+    
+bhqyu.xgfinjyvxv@sdajri.com (222.41.7.167): The okonomiyaki is good
+    

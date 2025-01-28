@@ -1,0 +1,18 @@
+
+BigParthenon is a restaurant with Greek cuisine
+in South District serving spinach pie, pastitsio and cheese pie.
+Their signature dish is mousaka. 
+The average price per person is $15. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+xxadm.hh@muikowr.com (114.204.215.209): The pastitsio is awful
+    
+tqjpzsdkmc.bbavwd@hgrdetq.com (27.104.237.44): The spinach pie is mediocre
+    
+pehygk.xyosegvpgg@yumhclds.com (80.12.178.92): The cheese pie is mediocre
+    
+wm.ym@ujwhhdcu.com (253.160.69.176): The spinach pie is disgusting
+    

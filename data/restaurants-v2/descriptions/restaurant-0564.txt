@@ -1,0 +1,14 @@
+
+GoodCorfuHouse is a restaurant with Greek cuisine
+in South District serving tzatziki.
+Their signature dish is cheese pie. 
+The average price per person is $11. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+ysditfy.ilapicryle@xbbxtnvc.com (139.83.68.104): The cheese pie is tasty
+    
+ovtttoaf.fvaiozds@wissabv.com (104.60.113.52): The cheese pie is awful
+    

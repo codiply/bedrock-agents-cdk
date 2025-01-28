@@ -1,0 +1,14 @@
+
+NewToluca is a restaurant with Mexican cuisine
+in South District serving quesadillas.
+Their signature dish is guacamole. 
+The average price per person is $20. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+oyel.kax@upamifg.com (33.204.181.107): The quesadillas is mediocre
+    
+afdfzll.pxy@hppcifwlx.com (12.242.50.175): The quesadillas is awful
+    

@@ -1,0 +1,18 @@
+
+LittleKolkataHouse is a restaurant with Indian cuisine
+in East District serving rogan josh.
+Their signature dish is biryani. 
+The average price per person is $40. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+dqshe.ccj@txwnajuz.com (133.188.55.99): The biryani is excellent
+    
+lkrltxb.uvu@fkigqwkvx.com (127.241.146.115): The rogan josh is good
+    
+ncslf.zmmglupjl@puedzecdw.com (66.120.12.193): The rogan josh is delicious
+    
+tn.nucbec@vhuxs.com (251.146.126.70): The biryani is horrible
+    

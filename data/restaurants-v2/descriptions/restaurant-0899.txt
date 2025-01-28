@@ -1,0 +1,16 @@
+
+NewRomeGarden is a restaurant with Italian cuisine
+in North District serving risotto and pesto.
+Their signature dish is gelato. 
+The average price per person is $46. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+jcml.nxoyf@jqtaw.com (113.224.223.87): The risotto is bad
+    
+kqiyvmygys.ttax@vkdytz.com (244.140.41.152): The gelato is mediocre
+    
+sfjrfq.rbjjjmauc@blxcicrgb.com (235.22.65.145): The risotto is disgusting
+    

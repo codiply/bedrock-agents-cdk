@@ -1,0 +1,16 @@
+
+LittleParthenonExpress is a restaurant with Greek cuisine
+in West District serving spinach pie and mousaka.
+Their signature dish is tzatziki. 
+The average price per person is $3. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+fd.ofqa@nykxjera.com (5.29.189.92): The tzatziki is bad
+    
+bh.cgyifwlnvj@rakwxj.com (184.72.26.171): The tzatziki is tasty
+    
+kitybpc.ecbt@myoxkcv.com (213.191.177.137): The tzatziki is horrible
+    

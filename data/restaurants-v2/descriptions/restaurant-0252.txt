@@ -1,0 +1,24 @@
+
+GreatKolkataGarden is a restaurant with Indian cuisine
+in West District serving samosa and naan.
+Their signature dish is butter chicken. 
+The average price per person is $17. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+khgycg.kswnxbpyfo@baobjcm.com (69.167.94.143): The butter chicken is mediocre
+    
+qliogtjkqs.jhoghytpxg@cjnhva.com (3.39.171.252): The butter chicken is tasty
+    
+stnb.rpmxjsys@xotaqsje.com (12.34.112.218): The naan is nice
+    
+ahl.jmh@mddokd.com (219.100.226.103): The naan is disgusting
+    
+nh.ntagsa@gvevzdf.com (11.199.130.182): The butter chicken is awful
+    
+al.pxot@oadwmhpkn.com (14.219.251.155): The samosa is fresh
+    
+mbmspv.xrs@gfyyoonz.com (116.249.189.211): The naan is horrible
+    

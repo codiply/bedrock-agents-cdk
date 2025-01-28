@@ -1,0 +1,18 @@
+
+Acropolis is a restaurant with Greek cuisine
+in South District serving cheese pie, mousaka and tzatziki.
+Their signature dish is Greek salad. 
+The average price per person is $26. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+ygji.ylpwe@txsklq.com (231.124.198.158): The cheese pie is bad
+    
+ybmleivmlj.ywhk@ewyzhzwf.com (84.13.124.109): The cheese pie is awful
+    
+jcml.nxoyf@jqtaw.com (113.224.223.87): The tzatziki is horrible
+    
+eqi.dsjcwjcop@igadynx.com (184.87.237.134): The tzatziki is disgusting
+    

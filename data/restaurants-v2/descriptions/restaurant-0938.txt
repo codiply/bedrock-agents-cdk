@@ -1,0 +1,16 @@
+
+GreatOsakaGarden is a restaurant with Japanese cuisine
+in East District serving ramen, miso soup and sushi.
+Their signature dish is tonkatsu. 
+The average price per person is $21. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+oyel.kax@upamifg.com (33.204.181.107): The tonkatsu is mediocre
+    
+vdxe.lkq@ttmpjg.com (43.149.132.71): The miso soup is good
+    
+rivcdgdkr.xsguwr@ggjddh.com (103.242.221.52): The sushi is fresh
+    

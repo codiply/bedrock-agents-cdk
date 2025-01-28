@@ -1,0 +1,12 @@
+
+Paros is a restaurant with Greek cuisine
+in South District serving Greek salad.
+Their signature dish is cheese pie. 
+The average price per person is $15. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+xwp.sz@roxukevxi.com (25.168.181.125): The Greek salad is mediocre
+    

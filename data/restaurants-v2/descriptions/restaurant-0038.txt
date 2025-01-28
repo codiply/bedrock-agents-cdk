@@ -1,0 +1,14 @@
+
+PerfectKolkataExpress is a restaurant with Indian cuisine
+in East District serving rogan josh, naan and biryani.
+Their signature dish is butter chicken. 
+The average price per person is $33. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+bv.zr@zzvdpkrqj.com (14.9.69.44): The naan is awful
+    
+ygji.ylpwe@txsklq.com (231.124.198.158): The biryani is awful
+    

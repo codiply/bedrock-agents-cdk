@@ -1,0 +1,24 @@
+
+GreatKolkataExpress is a restaurant with Indian cuisine
+in West District serving tandoori chicken.
+Their signature dish is samosa. 
+The average price per person is $14. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+cawhrq.odzrytn@iquqcbul.com (100.253.24.190): The tandoori chicken is tasty
+    
+inhbf.ozsim@izombgql.com (136.206.90.110): The tandoori chicken is nice
+    
+cglvxag.pvnbyy@typohgmdsr.com (192.177.53.97): The tandoori chicken is awful
+    
+dzdhpq.gpiovxiaf@wxfck.com (249.168.176.0): The tandoori chicken is horrible
+    
+vdxe.lkq@ttmpjg.com (43.149.132.71): The samosa is mediocre
+    
+abcqgpkre.xpxp@vthdndocv.com (179.37.73.230): The tandoori chicken is good
+    
+ngqocnj.nwf@lzvfbmqvm.com (37.35.115.229): The tandoori chicken is fresh
+    

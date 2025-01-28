@@ -1,0 +1,12 @@
+
+GreatXalapaHouse is a restaurant with Mexican cuisine
+in East District serving guacamole.
+Their signature dish is tacos. 
+The average price per person is $40. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+inhbf.ozsim@izombgql.com (136.206.90.110): The guacamole is excellent
+    

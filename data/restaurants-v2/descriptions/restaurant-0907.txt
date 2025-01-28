@@ -1,0 +1,14 @@
+
+BigVenice is a restaurant with Italian cuisine
+in South District serving gelato.
+Their signature dish is pesto. 
+The average price per person is $42. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+zc.vdckmmtxk@ejexhj.com (200.46.73.172): The gelato is tasty
+    
+sm.pdu@xhpmccgsjl.com (206.36.103.195): The pesto is disgusting
+    

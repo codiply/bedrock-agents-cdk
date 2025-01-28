@@ -1,0 +1,12 @@
+
+NewPalermoExpress is a restaurant with Italian cuisine
+in North District serving risotto and pizza.
+Their signature dish is lasagna. 
+The average price per person is $56. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+ic.ecynkdey@yivoajoj.com (253.38.1.86): The pizza is bad
+    

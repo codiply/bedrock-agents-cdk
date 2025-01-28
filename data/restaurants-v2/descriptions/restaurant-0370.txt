@@ -1,0 +1,16 @@
+
+GoodKolkataGarden is a restaurant with Indian cuisine
+in East District serving naan, samosa and biryani.
+Their signature dish is rogan josh. 
+The average price per person is $22. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+jm.zvmnbhskbm@xzskrntih.com (144.80.83.11): The samosa is nice
+    
+qii.kas@lmxelbmdf.com (10.173.255.9): The biryani is great
+    
+jpjxznpit.hj@tdrrhh.com (106.213.24.57): The samosa is mediocre
+    

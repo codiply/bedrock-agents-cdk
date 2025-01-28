@@ -1,0 +1,18 @@
+
+LittleOsakaExpress is a restaurant with Japanese cuisine
+in East District serving sushi and sashimi.
+Their signature dish is tonkatsu. 
+The average price per person is $10. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+qffbu.rf@hkbrx.com (120.244.195.176): The sashimi is awful
+    
+hob.pq@bolskaoh.com (78.212.40.58): The tonkatsu is tasty
+    
+vncfsnpd.qwvkxd@pspqptkw.com (216.95.141.186): The sashimi is mediocre
+    
+uvp.rbhtsgx@igivu.com (173.201.218.246): The sashimi is bad
+    

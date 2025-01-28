@@ -1,0 +1,14 @@
+
+GoodXalapaHouse is a restaurant with Mexican cuisine
+in South District serving quesadillas and guacamole.
+Their signature dish is burritos. 
+The average price per person is $34. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+inhbf.ozsim@izombgql.com (136.206.90.110): The quesadillas is nice
+    
+tn.nucbec@vhuxs.com (251.146.126.70): The burritos is delicious
+    

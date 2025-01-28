@@ -1,0 +1,16 @@
+
+GoodMexicali is a restaurant with Mexican cuisine
+in South District serving burritos and tacos.
+Their signature dish is guacamole. 
+The average price per person is $16. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+zhvixiun.dk@cmoff.com (70.141.102.46): The tacos is delicious
+    
+huuqzn.qgvifedioe@oygzhwoy.com (138.31.80.126): The tacos is horrible
+    
+oyel.kax@upamifg.com (33.204.181.107): The tacos is horrible
+    

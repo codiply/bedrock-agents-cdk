@@ -1,0 +1,14 @@
+
+GoodAthensHouse is a restaurant with Greek cuisine
+in South District serving mousaka.
+Their signature dish is spinach pie. 
+The average price per person is $14. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+bhqyu.xgfinjyvxv@sdajri.com (222.41.7.167): The mousaka is awful
+    
+stnb.rpmxjsys@xotaqsje.com (12.34.112.218): The spinach pie is great
+    

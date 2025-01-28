@@ -1,0 +1,12 @@
+
+LittleCorfuGarden is a restaurant with Greek cuisine
+in South District serving cheese pie, Greek salad and pastitsio.
+Their signature dish is mousaka. 
+The average price per person is $16. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+bv.zr@zzvdpkrqj.com (14.9.69.44): The cheese pie is great
+    

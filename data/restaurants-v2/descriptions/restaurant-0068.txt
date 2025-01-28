@@ -1,0 +1,12 @@
+
+BigToyamaExpress is a restaurant with Japanese cuisine
+in East District serving miso soup.
+Their signature dish is sushi. 
+The average price per person is $33. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+gtpgzrnx.ba@llxpe.com (81.93.197.27): The sushi is fresh
+    

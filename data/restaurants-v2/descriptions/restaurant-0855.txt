@@ -1,0 +1,12 @@
+
+GreatItalyHouse is a restaurant with Italian cuisine
+in North District serving risotto, lasagna and pasta.
+Their signature dish is pizza. 
+The average price per person is $38. 
+Customers have rated its food with 5 stars on average. 
+The service has average rating of 2 stars.
+    
+Reviews:
+    
+gtpgzrnx.ba@llxpe.com (81.93.197.27): The lasagna is great
+    

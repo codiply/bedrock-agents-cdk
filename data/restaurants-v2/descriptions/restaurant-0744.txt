@@ -1,0 +1,16 @@
+
+BigRaipurGarden is a restaurant with Indian cuisine
+in East District serving biryani and rogan josh.
+Their signature dish is tandoori chicken. 
+The average price per person is $10. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+bgrucnh.zdz@vpwhv.com (210.63.74.167): The rogan josh is mediocre
+    
+qfet.may@wyhzcywib.com (59.64.149.111): The rogan josh is delicious
+    
+ebcanxh.rw@manfr.com (198.28.240.58): The biryani is horrible
+    

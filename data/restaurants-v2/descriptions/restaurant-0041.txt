@@ -1,0 +1,12 @@
+
+ParthenonHouse is a restaurant with Greek cuisine
+in South District serving Greek salad and pastitsio.
+Their signature dish is cheese pie. 
+The average price per person is $17. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+stnb.rpmxjsys@xotaqsje.com (12.34.112.218): The Greek salad is awful
+    

@@ -1,0 +1,16 @@
+
+GreatAthensHouse is a restaurant with Greek cuisine
+in South District serving tzatziki.
+Their signature dish is Greek salad. 
+The average price per person is $13. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 4 stars.
+    
+Reviews:
+    
+kqiyvmygys.ttax@vkdytz.com (244.140.41.152): The Greek salad is horrible
+    
+gflnrpoq.qzpmolu@wnjqkljq.com (108.236.65.10): The Greek salad is disgusting
+    
+hc.amyg@qycjtb.com (205.239.235.247): The tzatziki is bad
+    

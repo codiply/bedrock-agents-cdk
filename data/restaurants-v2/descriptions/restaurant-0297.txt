@@ -1,0 +1,14 @@
+
+PerfectVenice is a restaurant with Italian cuisine
+in North District serving pesto, lasagna and risotto.
+Their signature dish is gelato. 
+The average price per person is $60. 
+Customers have rated its food with 1 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+ryu.lvvsz@sqayauyyfo.com (109.93.85.37): The gelato is bad
+    
+hkvh.qyjssxea@dggecc.com (26.229.84.48): The lasagna is mediocre
+    

@@ -1,0 +1,12 @@
+
+NewBengaluruHouse is a restaurant with Indian cuisine
+in West District serving samosa, tandoori chicken and naan.
+Their signature dish is rogan josh. 
+The average price per person is $19. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 1 stars.
+    
+Reviews:
+    
+wavg.rjiimhncb@wuahjpc.com (68.174.80.55): The rogan josh is mediocre
+    

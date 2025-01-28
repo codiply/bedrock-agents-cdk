@@ -1,0 +1,12 @@
+
+OldKochiHouse is a restaurant with Indian cuisine
+in West District serving biryani and samosa.
+Their signature dish is naan. 
+The average price per person is $9. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+inhbf.ozsim@izombgql.com (136.206.90.110): The naan is disgusting
+    

@@ -1,0 +1,14 @@
+
+PerfectKolkataGarden is a restaurant with Indian cuisine
+in East District serving tandoori chicken and rogan josh.
+Their signature dish is butter chicken. 
+The average price per person is $12. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+hfwcdxmxtu.nfdbn@tfkxdm.com (236.50.203.32): The rogan josh is horrible
+    
+xctmyvsk.hfxjmx@fpbxltqpo.com (6.219.25.7): The butter chicken is horrible
+    

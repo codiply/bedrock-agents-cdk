@@ -1,0 +1,16 @@
+
+XalapaGarden is a restaurant with Mexican cuisine
+in East District serving carnitas and burritos.
+Their signature dish is guacamole. 
+The average price per person is $35. 
+Customers have rated its food with 2 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+momzn.eggly@dulcy.com (13.221.185.92): The carnitas is tasty
+    
+hiuz.akq@bypit.com (7.32.44.89): The guacamole is bad
+    
+txnnxh.vfdlqi@twjhkce.com (247.50.153.73): The guacamole is nice
+    

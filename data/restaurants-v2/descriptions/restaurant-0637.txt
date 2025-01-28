@@ -1,0 +1,16 @@
+
+GoodFlorenceHouse is a restaurant with Italian cuisine
+in North District serving lasagna.
+Their signature dish is pesto. 
+The average price per person is $41. 
+Customers have rated its food with 3 stars on average. 
+The service has average rating of 3 stars.
+    
+Reviews:
+    
+dqshe.ccj@txwnajuz.com (133.188.55.99): The pesto is delicious
+    
+lkrltxb.uvu@fkigqwkvx.com (127.241.146.115): The pesto is disgusting
+    
+srxaxqdove.pnev@xdiezhcd.com (144.172.70.161): The pesto is horrible
+    

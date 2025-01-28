@@ -1,0 +1,12 @@
+
+BigTokyo is a restaurant with Japanese cuisine
+in East District serving sashimi, sushi and okonomiyaki.
+Their signature dish is miso soup. 
+The average price per person is $25. 
+Customers have rated its food with 4 stars on average. 
+The service has average rating of 5 stars.
+    
+Reviews:
+    
+szygk.rdamalrwl@yhywjv.com (97.180.92.120): The okonomiyaki is delicious
+    
