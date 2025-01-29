@@ -238,7 +238,7 @@ def _add_commas_plus_and(words: List[str]) -> str:
     if len(words) == 1:
         return words[0]
     else:
-        return f"{", ".join(words[:-1])} and {words[-1]}"
+        return f"""{", ".join(words[:-1])} and {words[-1]}"""
 
 
 def _get_restaurant_description(metadata) -> str:

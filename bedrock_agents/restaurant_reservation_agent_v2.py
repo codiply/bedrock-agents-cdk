@@ -691,6 +691,50 @@ class RestaurantReservationAgentV2Stack(Stack):
             skip_resource_in_use_check_on_delete=True,
         )
 
+        # Define guardrails
+
+        guardrail = bedrock.CfnGuardrail(
+            self,
+            "guardrails",
+            name=f"{prefix}-guardrails",
+            description="Guardrails for restaurant reservation agent",
+            blocked_input_messaging="Input blocked by guardrail",
+            blocked_outputs_messaging="Outputs blocked by guardrail",
+            sensitive_information_policy_config=bedrock.CfnGuardrail.SensitiveInformationPolicyConfigProperty(
+                pii_entities_config=[
+                    bedrock.CfnGuardrail.PiiEntityConfigProperty(
+                        type="EMAIL", action="ANONYMIZE"
+                    ),
+                    bedrock.CfnGuardrail.PiiEntityConfigProperty(
+                        type="IP_ADDRESS", action="ANONYMIZE"
+                    ),
+                ]
+            ),
+            word_policy_config=bedrock.CfnGuardrail.WordPolicyConfigProperty(
+                words_config=[
+                    bedrock.CfnGuardrail.WordConfigProperty(
+                        # Let's ban risotto
+                        text="risotto"
+                    )
+                ]
+            ),
+        )
+
+        guardrail_version = bedrock.CfnGuardrailVersion(
+            self,
+            "guardrail-version",
+            guardrail_identifier=guardrail.attr_guardrail_id,
+            description="Published version of the guardrail",
+        )
+
+        agent_role.add_to_policy(
+            iam.PolicyStatement(
+                effect=iam.Effect.ALLOW,
+                actions=["bedrock:ApplyGuardrail"],
+                resources=[guardrail.attr_guardrail_arn],
+            )
+        )
+
         # Define the Agent
 
         agent = bedrock.CfnAgent(
@@ -720,6 +764,10 @@ class RestaurantReservationAgentV2Stack(Stack):
                 find_restaurants_action_group,
                 make_reservation_action_group,
             ],
+            guardrail_configuration=bedrock.CfnAgent.GuardrailConfigurationProperty(
+                guardrail_identifier=guardrail.attr_guardrail_id,
+                guardrail_version=guardrail_version.attr_version,
+            ),
         )
 
         for lambda_function in [
