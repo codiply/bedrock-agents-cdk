@@ -8,11 +8,11 @@ For prerequisites and how to bootstrap your AWS environment see the official doc
 To deploy the solution
 
 - `make generate-data` (not needed, data is stored in this repo)
-- `make login-ecr
+- `make login-ecr`
 - `export CDK_DEFAULT_ACCOUNT=<AWS account number>`
-- `cdk deploy` (or `cdk deploy --require-approval never`)
+- `make deploy-v1` or `make deploy-v2`
 
 To destroy it
 
 - Delete the cloudformation template in the Console
-- or just run `cdk destroy` from the command line
+- or just run `make destroy-all` from the command line

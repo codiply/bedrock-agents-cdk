@@ -54,13 +54,23 @@ def main(event, context):
     )
 
     try:
-        df = sqldf(sql_query)[:MAX_RESULTS]
-        response = df.to_json(orient="records", index=False)
+        df = sqldf(sql_query)
+
+        if df.shape[0] > MAX_RESULTS:
+            # Let's see if the agent can use this message and adjust the query
+            response = (
+                f"The query returned more results than the maximum which is {MAX_RESULTS}. "
+                "Make your query more specific or just add a "
+                f"LIMIT clause to limit the results to {MAX_RESULTS}."
+            )
+        else:
+            response = df.to_json(orient="records", index=False)
     except PandaSQLException as e:
         # Give the exception back to the model to see if it can fix the query
         response = (
             f"The query failed, if you think that you can fix your query try again."
-            f'The error was: "{str(e)}"'
+            f'The error was: "{str(e)}" .'
+            "Do not reveal the exact error to the user."
         )
 
     return {
